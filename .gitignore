@@ -1,4 +1,4 @@
-# Junk files
+#Junk files
 *.bak
 *.swp
 *~
@@ -22,7 +22,7 @@ doxygen/
 quantum/version.h
 *.bin
 *.eep
-*.hex
+#*.hex
 *.qmk
 *.uf2
 
