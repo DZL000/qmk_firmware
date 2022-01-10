@@ -50,3 +50,4 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 };
 
 // qmk compile -kb kbdfans/kbd75/rev2 -km DZL000 ; qmk flash -kb kbdfans/kbd75/rev2 -km DZL000
+

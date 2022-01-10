@@ -6,7 +6,6 @@
 #define VENDOR_ID       0x4B42
 #define MANUFACTURER    qmkbuilder
 #define PRODUCT         KBD75
-#define DESCRIPTION     QMK keyboard firmware for KBD75
 
 /* key matrix size */
 #define MATRIX_ROWS 6
@@ -48,6 +47,7 @@
 #define RGBLIGHT_SLEEP
 /* If defined, the RGB lighting will be switched off when the host goes to sleep */
 #define RGBLIGHT_SLEEP
+#endif
 
 /* Mouse setting */
 #define MOUSEKEY_INTERVAL 16
@@ -58,4 +58,4 @@
 
 /* Change layer Tap-Toggle time */
 #define TAPPING_TOGGLE 2
-#endif
+
